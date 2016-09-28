@@ -118,4 +118,5 @@ double scalar_triple(const double *u, const double *v, const double *w)
 }
 
 double scalar_triple(const double *u, const double *v, const double *w)__attribute__((always_inline));
+
 #endif
